@@ -95,11 +95,7 @@ Backend handles authentication, game parsing, and sync storage.
 
 ## 📸 Screenshots
 
-
-```md
 ![GameVault UI](https://github.com/ParthS33/GameVault_React/blob/main/main_page.png?raw=true)
-```
-
 
 ---
 
